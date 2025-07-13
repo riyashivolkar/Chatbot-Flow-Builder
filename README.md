@@ -27,10 +27,10 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  **Clone the repository:**
     \`\`\`bash
-    git clone <YOUR_GITHUB_REPO_URL_HERE>
+    git clone <https://github.com/riyashivolkar/Chatbot-Flow-Builder>
     cd chatbot-flow-builder
     \`\`\`
-    *(Replace `<YOUR_GITHUB_REPO_URL_HERE>` with your actual GitHub repository URL once you push the code.)*
+    *(Replace `<https://github.com/riyashivolkar/Chatbot-Flow-Builder>` with your actual GitHub repository URL once you push the code.)*
 
 2.  **Install dependencies:**
     \`\`\`bash
@@ -66,7 +66,7 @@ This project can be easily deployed to platforms like Vercel.
     2.  Import your repository into Vercel.
     3.  Vercel will automatically detect it as a Next.js project and deploy it.
 
-*(Add your live deployment URL here once deployed, e.g., `https://your-app-name.vercel.app`)*
+*(Add your live deployment URL here once deployed, e.g., `https://chatbot-flow-builder-seven-mu.vercel.app/`)*
 
 ## Contributing
 
